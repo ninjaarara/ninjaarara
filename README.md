@@ -13,7 +13,7 @@
 </p>-->
 <a href="https://github.com/ninjaarara"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
-  <a href="https://github.com/ninjaarara"><img src="https://cardivo.vercel.app/api?name=Ryzen&description=Hi,%20Im%20Shirokami%20Ryzen%20and%20i%20love%20watching%20Anime&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ryzen_vermillion&github=ninjaarara&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/ninjaarara"><img src="https://cardivo.vercel.app/api?name=Sura&description=Hi,%20Im%20Sura%20Ryzen%20and%20i%20love%20watching%20Anime&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ryzen_vermillion&github=ninjaarara&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <details open align="center">
@@ -54,7 +54,7 @@
 <img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
   </div>
 <li>
- <b>Name:</b> Sura Miskah
+ <b>Name:</b> Sura Ryzen
 </li>
 <li>
 <b>Loves:</b> Anime, Games, Music, Girl
@@ -96,8 +96,8 @@ Listening to the music and typing code is my favorite routine, and also i like p
 most used social media</p>
 
 <p align="center">
-<a href="https://www.facebook.com/Nao.Tomori.UwU" target="_blank"><img src="https://img.shields.io/badge/-Sura-blue?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/ryzen_vermillion" target="_blank"><img src="https://img.shields.io/badge/-Ryzen_Vermillion-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/Nao.Tomori.UwU" target="_blank"><img src="https://img.shields.io/badge/-Sura%20Ryzen?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/ryzen_vermillion" target="_blank"><img src="https://img.shields.io/badge/-Sura_Vermillion-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/akiraid" target="_blank"><img src="https://img.shields.io/badge/-Akira%20ID-red?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 </p>
 </div>
