@@ -97,7 +97,7 @@ most used social media</p>
 
 <p align="center">
 <a href="https://wa.me/6282132251059" target="_blank"><img src="https://img.shields.io/badge/-Sura%20Ryzen?&style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
-<a href="https://www.instagram.com/ryzen_vermillion" target="_blank"><img src="https://img.shields.io/badge/-Sura_Vermillion-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ryzen_vermillion" target="_blank"><img src="https://img.shields.io/badge/-animei.quoteser-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/c/donghuasaga7636" target="_blank"><img src="https://img.shields.io/badge/-Donghuasaga%20ID-red?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 </p>
 </div>
