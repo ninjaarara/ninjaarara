@@ -13,7 +13,7 @@
 </p>-->
 <a href="https://github.com/ninjaarara"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
-  <a href="https://github.com/ninjaarara"><img src="https://cardivo.vercel.app/api?name=Sura&description=Hi,%20Im%20Sura%20Ryzen%20and%20i%20love%20watching%20Anime&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=ryzen_vermillion&github=ninjaarara&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/ninjaarara"><img src="https://cardivo.vercel.app/api?name=Sura&description=Hi,%20Im%20Sura%20Ryzen%20and%20i%20love%20watching%20Anime&image=https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=animei.quoteser&github=ninjaarara&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <details open align="center">
@@ -96,9 +96,9 @@ Listening to the music and typing code is my favorite routine, and also i like p
 most used social media</p>
 
 <p align="center">
-<a href="https://www.facebook.com/Nao.Tomori.UwU" target="_blank"><img src="https://img.shields.io/badge/-Sura%20Ryzen?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://wa.me/6282132251059" target="_blank"><img src="https://img.shields.io/badge/-Sura%20Ryzen?&style=for-the-badge&logo=Whatsapp&logoColor=white"/></a>
 <a href="https://www.instagram.com/ryzen_vermillion" target="_blank"><img src="https://img.shields.io/badge/-Sura_Vermillion-lightgrey?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/c/akiraid" target="_blank"><img src="https://img.shields.io/badge/-Akira%20ID-red?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/donghuasaga7636" target="_blank"><img src="https://img.shields.io/badge/-Donghuasaga%20ID-red?&style=for-the-badge&logo=Youtube&logoColor=white"/></a>
 </p>
 </div>
 </center>
