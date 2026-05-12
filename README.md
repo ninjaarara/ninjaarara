@@ -18,26 +18,28 @@
 
 ---
 
-### ⚙️ GitHub Activity
+### ⚙️ GitHub Statistics
 
 <div align="center">
-  <!-- GitHub Profile Summary Cards (Lebih Stabil) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninjaarara&theme=tokyonight" height="195" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ninjaarara&theme=tokyonight" height="195" alt="Stats"/>
-</div>
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ninjaarara&theme=tokyonight" height="195" alt="Top Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ninjaarara&theme=tokyonight" height="195" alt="Most Commit Language"/>
+  <!-- Stats Card dengan Icon Style -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ninjaarara&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats"/>
 </div>
 
 ---
 
-### 🔥 Contribution Streak
+### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ninjaarara&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ninjaarara&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 📊 Top Languages (Icon Style)
+
+<div align="center">
+  <!-- Top Languages dengan Layout Compact + Icons -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjaarara&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&show_icons=true" height="165" alt="Top Languages"/>
 </div>
 
 ---
@@ -63,12 +65,11 @@
 ### 📇 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&perline=7" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&perline=8" /><br><br>
   
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anime%20Lover-FF69B4?style=for-the-badge&logo=anilist&logoColor=white" />
 </div>
 
 ---
