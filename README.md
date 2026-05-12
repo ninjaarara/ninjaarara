@@ -18,19 +18,26 @@
 
 ---
 
-### ⚙️ GitHub Statistics
+### ⚙️ GitHub Activity
 
 <div align="center">
-  <!-- Stats Card (dengan cache breaker) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ninjaarara&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=1800" height="165" alt="Stats"/>
-  
-  <!-- Streak Stats (alternatif mirror yang lebih stabil) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjaarara&theme=tokyonight&hide_border=true" height="165" alt="Streak"/>
+  <!-- GitHub Profile Summary Cards (Lebih Stabil) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ninjaarara&theme=tokyonight" height="195" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ninjaarara&theme=tokyonight" height="195" alt="Stats"/>
 </div>
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjaarara&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" height="165" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ninjaarara&theme=tokyonight" height="195" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ninjaarara&theme=tokyonight" height="195" alt="Most Commit Language"/>
+</div>
+
+---
+
+### 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ninjaarara&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
