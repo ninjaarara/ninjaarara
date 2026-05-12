@@ -21,12 +21,16 @@
 ### ⚙️ GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninjaarara&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true" height="165" alt="Stats"/>
+  <!-- Stats Card (dengan cache breaker) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ninjaarara&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=1800" height="165" alt="Stats"/>
+  
+  <!-- Streak Stats (alternatif mirror yang lebih stabil) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjaarara&theme=tokyonight&hide_border=true" height="165" alt="Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjaarara&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninjaarara&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" height="165" alt="Top Languages"/>
 </div>
 
 ---
@@ -52,14 +56,12 @@
 ### 📇 Tech Stack & Tools
 
 <div align="center">
-  
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&perline=7" /><br><br>
   
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Anime%20Lover-FF69B4?style=for-the-badge&logo=anilist&logoColor=white" />
-
 </div>
 
 ---
@@ -75,9 +77,6 @@
   </a>
   <a href="https://www.youtube.com/c/donghuasaga7636" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://github.com/ninjaarara" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
