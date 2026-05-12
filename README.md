@@ -308,7 +308,24 @@ graph LR
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ninjaarara/ninjaarara/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ninjaarara/ninjaarara/output/github-contribution-grid-snake.svg">
 </picture>
+# .github/workflows/snake.yml
+name: Generate Snake
 
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ninjaarara
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=twinkling&fontColor=fff" width="100%" />
