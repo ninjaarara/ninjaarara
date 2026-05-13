@@ -184,10 +184,10 @@ console.log(sura.currentFocus());
 
 ```mermaid
 graph LR
-    A[🎯 Learning] -->|New Skills| B[🛠️ Building]
-    B -->|Projects| C[🌟 Sharing]
-    C -->|Knowledge| D[📈 Growing]
-    D -->|Experience| A
+    A["Learning"] -->|"New Skills"| B["Building"]
+    B -->|"Projects"| C["Sharing"]
+    C -->|"Knowledge"| D["Growing"]
+    D -->|"Experience"| A
     style A fill:#6C63FF,stroke:#fff,stroke-width:2px,color:#fff
     style B fill:#FF6B9D,stroke:#fff,stroke-width:2px,color:#fff
     style C fill:#FEC859,stroke:#fff,stroke-width:2px,color:#000
