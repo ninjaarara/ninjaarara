@@ -75,9 +75,9 @@ I enjoy turning ideas into useful digital experiences. My interests live between
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ninjaarara&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5eead4&icon_color=a78bfa&text_color=cbd5e1&rank_icon=github" alt="GitHub statistics" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaarara&layout=compact&hide_border=true&bg_color=0d1117&title_color=5eead4&text_color=cbd5e1" alt="Most used languages"/>
+<img src="https://img.shields.io/github/followers/ninjaarara?style=for-the-badge&logo=github&label=FOLLOWERS&color=101827" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/repo-count/ninjaarara?style=for-the-badge&logo=github&label=PUBLIC%20REPOSITORIES&color=101827" alt="Public repositories"/>
+<img src="https://img.shields.io/github/stars/ninjaarara?style=for-the-badge&logo=github&label=STARS&color=101827" alt="GitHub stars"/>
 
 </div>
 
@@ -90,7 +90,7 @@ I enjoy turning ideas into useful digital experiences. My interests live between
 | <img src="https://img.shields.io/badge/STATUS-LEARNING-101827?style=flat-square&logo=github&logoColor=5eead4" alt="Status"/> | Building, experimenting, improving |
 |:--|:--|
 | <img src="https://img.shields.io/badge/FOCUS-NOW-101827?style=flat-square&logo=target&logoColor=a78bfa" alt="Focus"/> | Web apps · Modern tooling · Cloud |
-| <img src="https://img.shields.io/badge/OPEN-COLLAB-101827?style=flat-square&logo= handshake&logoColor=5eead4" alt="Collaboration"/> | Interesting projects & creative ideas |
+| <img src="https://img.shields.io/badge/OPEN-COLLAB-101827?style=flat-square&logoColor=5eead4" alt="Collaboration"/> | Interesting projects & creative ideas |
 | <img src="https://img.shields.io/badge/GOAL-2026-101827?style=flat-square&logo=rocket&logoColor=fbbf24" alt="Goal"/> | Build better things and share more |
 
 </div>
