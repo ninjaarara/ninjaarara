@@ -7,17 +7,7 @@
 **Developer / Creator / Tech Enthusiast**  
 Surabaya, Indonesia 🇮🇩
 
-<a href="https://sura-api.vercel.app">PORTFOLIO</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/ninjaarara?tab=repositories">PROJECTS</a>
-&nbsp;·&nbsp;
-<a href="https://www.instagram.com/ikis.sura">INSTAGRAM</a>
-&nbsp;·&nbsp;
-<a href="https://wa.me/668885031354">CONTACT</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ninjaarara&style=flat-square&color=5eead4&label=VISITORS" alt="Profile visitors" />
+[PORTFOLIO](https://sura-api.vercel.app) · [PROJECTS](https://github.com/ninjaarara?tab=repositories) · [INSTAGRAM](https://www.instagram.com/ikis.sura) · [CONTACT](https://wa.me/668885031354)
 
 </div>
 
@@ -42,21 +32,13 @@ My interests sit somewhere between software, visual design, and experimenting wi
 
 <div align="center">
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" alt="JavaScript, TypeScript, Python, HTML and CSS" />
-
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap&theme=dark" alt="React, Tailwind CSS and Bootstrap" />
-
-**BACKEND & DATA**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB and MySQL" />
-
-**WORKBENCH**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,ps,ai,canva&theme=dark" alt="Git, GitHub, VS Code, Vercel, Figma, Photoshop, Illustrator and Canva" />
+| DISCIPLINE | TOOLS & TECHNOLOGIES |
+|:--|:--|
+| **Languages** | JavaScript · TypeScript · Python · HTML · CSS |
+| **Frontend** | React · Tailwind CSS · Bootstrap |
+| **Backend & Data** | Node.js · Express · MongoDB · MySQL |
+| **Workbench** | Git · GitHub · VS Code · Vercel |
+| **Creative** | Figma · Photoshop · Illustrator · Canva |
 
 </div>
 
@@ -69,7 +51,7 @@ My interests sit somewhere between software, visual design, and experimenting wi
 | DESTINATION | WHAT YOU'LL FIND | OPEN |
 |:--|:--|:--:|
 | **Repositories** | Experiments, tools, and things I'm building | [Explore ↗](https://github.com/ninjaarara?tab=repositories) |
-| **GitHub Activity** | My contribution calendar and public activity | [Activity ↗](https://github.com/ninjaarara) |
+| **GitHub Activity** | Contribution calendar and public activity | [Activity ↗](https://github.com/ninjaarara) |
 | **Portfolio** | More about my work and projects | [Visit ↗](https://sura-api.vercel.app) |
 
 </div>
@@ -106,12 +88,9 @@ Design makes the details matter.
 
 I'm open to conversations, creative ideas, and worthwhile collaborations.
 
-<a href="https://sura-api.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-5eead4?style=for-the-badge&logo=vercel&logoColor=07111f" alt="Portfolio" /></a>
-<a href="https://www.instagram.com/ikis.sura"><img src="https://img.shields.io/badge/INSTAGRAM-a78bfa?style=for-the-badge&logo=instagram&logoColor=07111f" alt="Instagram" /></a>
-<a href="https://www.youtube.com/c/donghuosaga7636"><img src="https://img.shields.io/badge/YOUTUBE-f87171?style=for-the-badge&logo=youtube&logoColor=07111f" alt="YouTube" /></a>
-<a href="https://wa.me/668885031354"><img src="https://img.shields.io/badge/WHATSAPP-4ade80?style=for-the-badge&logo=whatsapp&logoColor=07111f" alt="WhatsApp" /></a>
+[WEBSITE ↗](https://sura-api.vercel.app) · [INSTAGRAM ↗](https://www.instagram.com/ikis.sura) · [YOUTUBE ↗](https://www.youtube.com/c/donghuosaga7636) · [WHATSAPP ↗](https://wa.me/668885031354)
 
-<br/><br/>
+<br/>
 
 <sub>DESIGNED AS A PERSONAL FIELD NOTE · BUILT WITH MARKDOWN & SVG</sub>
 
