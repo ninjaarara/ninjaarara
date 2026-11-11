@@ -62,24 +62,77 @@ I enjoy turning ideas into useful digital experiences. My interests live between
 
 ---
 
-## ✦ 03 / GITHUB ACTIVITY
+## ✦ 03 / GITHUB ACTIVITY — LIVE DEVELOPER DASHBOARD
 
 <div align="center">
 
-<a href="https://github.com/ninjaarara?tab=repositories">
-<img src="https://img.shields.io/badge/⌘_EXPLORE_REPOSITORIES-101827?style=for-the-badge&logo=github&logoColor=5eead4" alt="Explore repositories"/>
-</a>
-<a href="https://github.com/ninjaarara">
-<img src="https://img.shields.io/badge/◷_OPEN_CONTRIBUTION_CALENDAR-101827?style=for-the-badge&logo=github&logoColor=a78bfa" alt="Open contribution calendar"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/ninjaarara?style=for-the-badge&logo=github&label=FOLLOWERS&color=101827" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/repo-count/ninjaarara?style=for-the-badge&logo=github&label=PUBLIC%20REPOSITORIES&color=101827" alt="Public repositories"/>
-<img src="https://img.shields.io/github/stars/ninjaarara?style=for-the-badge&logo=github&label=STARS&color=101827" alt="GitHub stars"/>
+<img src="https://img.shields.io/badge/PROFILE_ANALYTICS-AUTOMATED-101827?style=for-the-badge&logo=github&logoColor=5eead4" alt="Automated profile analytics"/>
+<img src="https://img.shields.io/badge/REFRESH-DAILY-101827?style=for-the-badge&logo=githubactions&logoColor=a78bfa" alt="Daily refresh"/>
 
 </div>
+
+### ◈ Contribution Calendar — ContribKit
+
+<div align="center">
+
+<img src="https://contribkit.app/user/ninjaarara.svg?palette=tokyonight&shape=hex&background=%230d1117" width="100%" alt="Ninja Arara GitHub contribution calendar by ContribKit"/>
+
+</div>
+
+### ◈ Activity Timeline — Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ninjaarara&bg_color=0d1117&color=cbd5e1&line=5eead4&point=a78bfa&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%" alt="GitHub activity timeline"/>
+
+</div>
+
+### ◈ Profile Intelligence — Profile Cards
+
+<div align="center">
+
+<img src="./assets/profile-cards/overview.dark.svg" width="100%" alt="GitHub profile overview statistics"/>
+
+<img src="./assets/profile-cards/contributions.dark.svg" width="100%" alt="3D contribution calendar and streaks"/>
+
+<img src="./assets/profile-cards/momentum.dark.svg" width="100%" alt="Contribution momentum over time"/>
+
+<img src="./assets/profile-cards/lifetime.dark.svg" width="100%" alt="Lifetime contribution history"/>
+
+<img src="./assets/profile-cards/composition.dark.svg" width="100%" alt="Contribution composition"/>
+
+<img src="./assets/profile-cards/rhythm.dark.svg" width="100%" alt="Contribution rhythm by weekday and month"/>
+
+<img src="./assets/profile-cards/cadence.dark.svg" width="100%" alt="Commit cadence by weekday and hour"/>
+
+<img src="./assets/profile-cards/repositories.dark.svg" width="100%" alt="Most active repositories"/>
+
+<img src="./assets/profile-cards/portfolio.dark.svg" width="100%" alt="Repository portfolio timeline"/>
+
+<img src="./assets/profile-cards/languages.dark.svg" width="100%" alt="Programming language treemap"/>
+
+</div>
+
+### ◈ Daily Snapshot — Glancecard
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./glancecard/profile-dark.svg"/>
+  <img src="./glancecard/profile-light.svg" width="100%" alt="GitHub profile daily snapshot by Glancecard"/>
+</picture>
+
+</div>
+
+<details>
+<summary><b>↗ Open dashboard tools and source projects</b></summary>
+
+- [Profile Cards Action](https://github.com/seijikohara/profile-cards-action) — 10 analytics cards, including an isometric contribution calendar
+- [ContribKit](https://contribkit.app/) — customizable contribution calendar with palettes and hexagon cells
+- [Glancecard](https://gfazioli.github.io/glancecard/) — daily profile snapshot rendered and stored in this repository
+- [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/) — contribution timeline
+
+</details>
 
 ---
 
@@ -87,8 +140,9 @@ I enjoy turning ideas into useful digital experiences. My interests live between
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/STATUS-LEARNING-101827?style=flat-square&logo=github&logoColor=5eead4" alt="Status"/> | Building, experimenting, improving |
+| SIGNAL | CURRENT STATUS |
 |:--|:--|
+| <img src="https://img.shields.io/badge/STATUS-LEARNING-101827?style=flat-square&logo=github&logoColor=5eead4" alt="Status"/> | Building, experimenting, improving |
 | <img src="https://img.shields.io/badge/FOCUS-NOW-101827?style=flat-square&logo=target&logoColor=a78bfa" alt="Focus"/> | Web apps · Modern tooling · Cloud |
 | <img src="https://img.shields.io/badge/OPEN-COLLAB-101827?style=flat-square&logoColor=5eead4" alt="Collaboration"/> | Interesting projects & creative ideas |
 | <img src="https://img.shields.io/badge/GOAL-2026-101827?style=flat-square&logo=rocket&logoColor=fbbf24" alt="Goal"/> | Build better things and share more |
@@ -125,7 +179,7 @@ I enjoy turning ideas into useful digital experiences. My interests live between
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:5eead4,50:312e81,100:090d18" width="100%" alt="Animated wave footer"/>
 
-<sub>DESIGNED WITH MARKDOWN · SVG · A LITTLE BIT OF MOTION</sub>
+<sub>DESIGNED WITH MARKDOWN · SVG · GITHUB ACTIONS</sub>
 
 **Sura Ryzen** · Always curious. Always creating.
 
