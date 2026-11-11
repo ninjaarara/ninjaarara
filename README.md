@@ -88,7 +88,7 @@ I enjoy creating web applications, exploring new technologies, and turning ideas
 <br/><br/>
 
 <a href="https://github.com/ninjaarara?tab=repositories">
-<img src="https://img.shields.io/github?label=Public%20Repositories&logo=github&style=for-the-badge&color=334155" alt="Public repositories" />
+<img src="https://img.shields.io/github/repo-count/ninjaarara?label=Public%20Repositories&logo=github&style=for-the-badge&color=334155" alt="Public repositories" />
 </a>
 <a href="https://github.com/ninjaarara">
 <img src="https://img.shields.io/github/followers/ninjaarara?label=GitHub%20Followers&logo=github&style=for-the-badge&color=4F46E5" alt="GitHub followers" />
