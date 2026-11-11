@@ -62,79 +62,23 @@ I enjoy turning ideas into useful digital experiences. My interests live between
 
 ---
 
-## ✦ 03 / GITHUB ACTIVITY — LIVE DEVELOPER DASHBOARD
+## ✦ 03 / GITHUB ACTIVITY — ACTIVITY UNIVERSE
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROFILE_ANALYTICS-AUTOMATED-101827?style=for-the-badge&logo=github&logoColor=5eead4" alt="Automated profile analytics"/>
-<img src="https://img.shields.io/badge/REFRESH-DAILY-101827?style=for-the-badge&logo=githubactions&logoColor=a78bfa" alt="Daily refresh"/>
+<img src="./assets/activity-universe.gif" width="100%" alt="Animated Activity Universe visualizing real GitHub contributions from the last 365 days" />
+
+<sub>REAL CONTRIBUTION CALENDAR · ORBITAL VISUALIZATION · AUTO-UPDATED DAILY</sub>
+
+<br/>
+
+<a href="https://github.com/ninjaarara">
+  <img src="https://img.shields.io/badge/OPEN_GITHUB_ACTIVITY-101827?style=for-the-badge&logo=github&logoColor=5eead4" alt="Open GitHub activity" />
+</a>
 
 </div>
 
-### ◈ Contribution Calendar — ContribKit
-
-<div align="center">
-
-<img src="https://contribkit.app/user/ninjaarara.svg?palette=tokyonight&shape=hex&background=%230d1117" width="100%" alt="Ninja Arara GitHub contribution calendar by ContribKit"/>
-
-</div>
-
-### ◈ Activity Timeline — Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ninjaarara&bg_color=0d1117&color=cbd5e1&line=5eead4&point=a78bfa&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%" alt="GitHub activity timeline"/>
-
-</div>
-
-### ◈ Profile Intelligence — Profile Cards
-
-<div align="center">
-
-<img src="./assets/profile-cards/overview.dark.svg" width="100%" alt="GitHub profile overview statistics"/>
-
-<img src="./assets/profile-cards/contributions.dark.svg" width="100%" alt="3D contribution calendar and streaks"/>
-
-<img src="./assets/profile-cards/momentum.dark.svg" width="100%" alt="Contribution momentum over time"/>
-
-<img src="./assets/profile-cards/lifetime.dark.svg" width="100%" alt="Lifetime contribution history"/>
-
-<img src="./assets/profile-cards/composition.dark.svg" width="100%" alt="Contribution composition"/>
-
-<img src="./assets/profile-cards/rhythm.dark.svg" width="100%" alt="Contribution rhythm by weekday and month"/>
-
-<img src="./assets/profile-cards/cadence.dark.svg" width="100%" alt="Commit cadence by weekday and hour"/>
-
-<img src="./assets/profile-cards/repositories.dark.svg" width="100%" alt="Most active repositories"/>
-
-<img src="./assets/profile-cards/portfolio.dark.svg" width="100%" alt="Repository portfolio timeline"/>
-
-<img src="./assets/profile-cards/languages.dark.svg" width="100%" alt="Programming language treemap"/>
-
-</div>
-
-### ◈ Daily Snapshot — Glancecard
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./glancecard/profile-dark.svg"/>
-  <img src="./glancecard/profile-light.svg" width="100%" alt="GitHub profile daily snapshot by Glancecard"/>
-</picture>
-
-</div>
-
-<details>
-<summary><b>↗ Open dashboard tools and source projects</b></summary>
-
-- [Profile Cards Action](https://github.com/seijikohara/profile-cards-action) — 10 analytics cards, including an isometric contribution calendar
-- [ContribKit](https://contribkit.app/) — customizable contribution calendar with palettes and hexagon cells
-- [Glancecard](https://gfazioli.github.io/glancecard/) — daily profile snapshot rendered and stored in this repository
-- [GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/) — contribution timeline
-
-</details>
-
----
+> Every glowing node represents a day from the real GitHub contribution calendar. Brighter nodes indicate higher contribution levels. The animation is generated from GitHub GraphQL data by this repository's own GitHub Actions workflow.
 
 ## ✦ 04 / CURRENT TRANSMISSION
 
