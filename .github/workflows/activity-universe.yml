@@ -1,0 +1,42 @@
+name: Update Activity Universe
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/activity_universe.py"
+      - ".github/workflows/activity-universe.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  render-universe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: python -m pip install --upgrade Pillow
+
+      - name: Render contribution universe from GitHub GraphQL
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ninjaarara
+        run: python scripts/activity_universe.py
+
+      - name: Commit generated animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity-universe.gif
+          git diff --cached --quiet || (git commit -m "chore: refresh activity universe" && git push)
