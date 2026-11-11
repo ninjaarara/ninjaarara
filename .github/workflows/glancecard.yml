@@ -1,0 +1,28 @@
+name: Refresh Glancecard
+
+on:
+  schedule:
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: glancecard
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Render profile card
+        uses: gfazioli/glancecard@v0.6.1
+        with:
+          profile: ninjaarara
+          theme: both
+          time-zone: Asia/Jakarta
